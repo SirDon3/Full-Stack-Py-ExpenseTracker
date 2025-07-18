@@ -39,4 +39,3 @@ Make sure both the frontend and backend are running simultaneously for full func
 
 
 
-# Full-Stack-Py-ExpenseTracker
